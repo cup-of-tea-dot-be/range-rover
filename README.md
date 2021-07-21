@@ -1,6 +1,12 @@
 # RangeRover
 
+![Build status](https://github.com/cup-of-tea-dot-be/range-rover/actions/workflows/build-test-publish.yml/badge.svg?branch=main)
+
 .NET library for doing all kinds of range math (combine ranges, intersect ranges, subtract ranges, etc).
+
+## Get it on NuGet
+
+    PM> Install-Package RangeRover
 
 ## Example
 
